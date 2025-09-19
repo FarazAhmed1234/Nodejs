@@ -4,7 +4,7 @@ const http = require("http");
 const server = http.createServer((req, res) => {
   if (req.url === "/") {
     res.setHeader("Content-Type", "text/html");
-    res.write("<h1> I am Faraz Ahmed.  </h1>");
+    res.write("<h1> I am Faraz Ahmed. Faraz  </h1>");
     res.end();
   }
 
