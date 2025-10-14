@@ -16,6 +16,8 @@ const mult = (a, b) => {
 
 const PI = 3.214;
 
+// module.exports.add = add;
+// module.exports.mult = mult;
 
 module.exports = { add, mult, subs, div, PI };
 
