@@ -21,5 +21,6 @@ module.exports = { add, mult, subs, div, PI };
 
 // obj.
 
+// module.exports is a single object or value.
 // When you reassign module.exports (e.g., module.exports = add), it completely replaces whatever was previously assigned.
 // If you reassign it again (module.exports = mult), the previous value (add) is replaced with mult.
