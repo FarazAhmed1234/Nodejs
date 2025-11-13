@@ -21,7 +21,7 @@ const PI = 3.214;
 
 module.exports = { add, mult, subs, div, PI };
 
-// obj.
+
 
 // When you reassign module.exports (e.g., module.exports = add), it completely replaces whatever was previously assigned.
 // If you reassign it again (module.exports = mult), the previous value (add) is replaced with mult.
