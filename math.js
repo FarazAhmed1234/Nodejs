@@ -23,4 +23,3 @@ module.exports = { add, mult, subs, div, PI };
 
 // obj.
 
-// If you reassign it again (module.exports = mult), the previous value (add) is replaced with mult.
